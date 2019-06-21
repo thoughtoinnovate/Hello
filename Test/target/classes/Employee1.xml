@@ -1,0 +1,24 @@
+<Employee>
+	<Name>
+		<FirstName>Jack</FirstName>
+		<LastName>Singh</LastName>
+	</Name>
+
+	<Departments>
+		<Department>
+			<ID>1</ID>
+			<Name>HR</Name>
+		</Department>
+		<Department>
+			<ID>1</ID>
+			<Name>Finance</Name>
+		</Department>
+
+	</Departments>
+
+	<Salary>
+		<Annual>800000</Annual>
+	</Salary>
+	<JoiningDate>01/04/2010</JoiningDate>
+
+</Employee>
